@@ -1,2 +1,2 @@
 # alurapic
-Projeto de Estudo, criado durante o curso de Angula do Alura
+Projeto de Estudo, criado durante o curso de Angular do Alura
